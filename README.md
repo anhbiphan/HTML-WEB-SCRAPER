@@ -11,14 +11,14 @@ Objective:
 
 Requirements:
 1. date should be a string
-2. 'title' has to be in "<h3 class="news_title">"
+2. 'title' has to be in "<h3 class=>"
 3. for 'slug' column, use 'title' column and convert all values into a slug. 
-   (all lower case characters, no <h3 class="news_title">, spaces are replaced with '-', and no special characters and symbols)
+   (all lower case characters, no <h3 class=>, spaces are replaced with '-', and no special characters and symbols)
 4. 'body' column should be in <ul format
 
 Problems:
-1. after webscrapping the title, some "<h3 class="news_title">" were inconsistent, missing [ ", > ] and other symbols/characters.
-    Solution: used the .replace() to custom replace unique "<h3 class="news_title">"
+1. after webscrapping the title, some "<h3 class=>" were inconsistent, missing [ ", > ] and other symbols/characters.
+    Solution: used the .replace() to custom replace unique "<h3 class=>"
   
   
   

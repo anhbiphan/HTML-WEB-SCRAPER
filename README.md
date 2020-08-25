@@ -11,7 +11,7 @@ Objective:
 
 Requirements:
 1. date should be a string
-2. 'title' has to be in <h3 class="news_title"> format
+2. 'title' has to be in "<h3 class="news_title">"
 3. for 'slug' column, use 'title' column and convert all values into a slug. 
    (all lower case characters, no <h3 class="news_title">, spaces are replaced with '-', and no special characters and symbols)
 4. 'body' column should be in <ul format

@@ -1,5 +1,5 @@
-id,title,articles
-1,"<h3 class=""news_title"">Donà Viscardini showcased by “Milano Finanza” for Competition Law</h3>","<ul class=""news"">
+id,user_id,date,title,slug,view,image,body
+1,1,2020,"<h3 class=""news_title"">Donà Viscardini showcased by “Milano Finanza” for Competition Law</h3>",dona-viscardini-showcased-by-milano-finanza-for-competition-law,0,,"<ul class=""news"">
 <li>In April 2020, “Class Editori” published the volume
                     <a href="" https://www.classabbonamenti.com/libro-avvocati2"">
 <i>“The Best Lawyers and The Best Law Firms</i> corporate <i>2020”</i></a> selected by “Milano Finanza”. 
@@ -7,7 +7,7 @@ id,title,articles
 <li>Donà Viscardini is listed for the category “Competition Law”. Also individually listed are attorneys Wilma Viscardini and Gabriele Donà.
                 </li>
 </ul>"
-2,"<h3 class=""news_title"">Training course in European court law and labour law</h3>","<ul>
+2,1,2020 - May 27,"<h3 class=""news_title"">Training course in European court law and labour law</h3>",training-course-in-european-court-law-and-labour-law,0,,"<ul>
 <li>The third meeting of the Course "" Diritto dell’Unione Europea e diritto del lavoro nel contesto europeo” organized by “Avvocati Giuslavoristi Italiani” (AGI) will take place in the ""virtual classroom"" (
                     <a href=""../images/locandina convegno 20200415.pdf"" onclick=""window.open('../images/locandina convegno 20200415.pdf',
                                        'newwindow', 'width=980, height=800');
@@ -22,7 +22,7 @@ id,title,articles
                 </li>
 <li>Attorney Gabriele Donà will talk about ""The effects of the prejudicial judgments of the Court of Justice and the constraint of the precedents"".</li>
 </ul>"
-3,"<h3 class=""news_title"">European Union Procedural Law Seminar</h3>","<ul>
+3,1,2020 - May 7,"<h3 class=""news_title"">European Union Procedural Law Seminar</h3>",european-union-procedural-law-seminar,0,,"<ul>
 <li>As part of Module II (“La tutela giurisdizionale”) del ""Corso di perfezionamento e specializzazione in diritto dell’Unione europea” (v. “Nova"" of October 30, 2019), the seminar ""The Cancellation Action and the Disability Exception"" was held in the ""virtual classroom” (
                     <a href=""../images/locandina seminario 20200507.pdf"" onclick=""window.open('../images/locandina seminario 20200507.pdf',
                                        'newwindow', 'width=980, height=800');
@@ -32,7 +32,7 @@ id,title,articles
                 </li>
 <li>Attorney Gabriele Donà spoke on the topic of the appeal of annulment under art. 263 TFEU.</li>
 </ul>"
-4,"<h3 class=""news_title"">“Scholarship” from the Union of European Lawyers (UAE) for young attorneys e licensed practitioners (deadline September 15, 2020)</h3>","<ul class=""news"">
+4,1,2020 - April 22,"<h3 class=""news_title"">“Scholarship” from the Union of European Lawyers (UAE) for young attorneys e licensed practitioners (deadline September 15, 2020)</h3>",scholarship-from-the-union-of-european-lawyers-uae-for-young-attorneys-e-licensed-practitioners-deadline-september-15-2020,0,,"<ul class=""news"">
 <li>L’U.A.E. (<a href=""http://www.uae.lu"" onclick=""window.open('http://www.uae.lu',
                                 'newwindow', 'width=980, height=800');
                         return false;"">www.uae.lu</a>) has launched an important initiative for young lawyers (U-35) of all Member States of the European Union. To apply, candidates must submit an essay on the topic of ""A European Union of Justice"", in English or French, by the September 15 deadline. 
@@ -44,7 +44,7 @@ id,title,articles
 <li>The winner (the decision will be made by a Jury on or before October 7) will be awarded a ""scholarship"" which includes (inter alia): free two-yea membership in the UAE and free attendance (inclusive of travel and lodging expenses) to the next Annual Assembly in Paris (November 13-14 ).
                 </li>
 </ul>"
-5,"<h3 class=""news_title"">Attorney Gabriele Donà speaker at the Consiglio Nazionale Forense</h3>","<ul>
+5,1,2019 - December 11,"<h3 class=""news_title"">Attorney Gabriele Donà speaker at the Consiglio Nazionale Forense</h3>",attorney-gabriele-dona-speaker-at-the-consiglio-nazionale-forense,0,,"<ul>
 <li>The conference “Avvocati: diritti ed effettività della tutela” took place in Roma, at the Consiglio Nazionale Forense, (
                     <a href=""../images/CNF191211-pdf"" onclick=""window.open('../images/CNF191211.pdf',
                                        'newwindow', 'width=980, height=800');
@@ -54,7 +54,7 @@ id,title,articles
                 </li>
 <li>Attorney Gabriele Donà, in his role of President of the U.A.E., spoke on ""The role of the Specialist Lawyer in European Union law in protecting rights before the National Courts and the European Court of Justice"". </li>
 </ul>"
-6,"<h3 class=""news_title"">Attorney Wilma Viscardini at the Italian Embassy in Berlin to speak about Europ</h3>","<ul>
+6,1,2019 - December 10,"<h3 class=""news_title"">Attorney Wilma Viscardini at the Italian Embassy in Berlin to speak about Europ</h3>",attorney-wilma-viscardini-at-the-italian-embassy-in-berlin-to-speak-about-europ,0,,"<ul>
 <li>A seminar “A Costituzione for Europe?”, organized by the local “Comites”, will take place at the Italian Embassy in Berlin (Tiergartenstraße 22) (
                     <a href=""../images/38bc4f33-ff49-43fd-9f90-30892a5a6cae.png"" onclick=""window.open('../images/38bc4f33-ff49-43fd-9f90-30892a5a6cae.png',
                                        'newwindow', 'width=980, height=800');
@@ -70,7 +70,7 @@ id,title,articles
                             return false;"">http://s467053659.website-start.de/eventi/10-12-2019-una-costituzione-per-l-europa-incontro-dibattito</a>).
                 </li>
 </ul>"
-7,"<h3 class=""news_title"">Celebrations marking the tenth anniversary of the Berlin Office of Studio legale Donà Viscardini</h3>","<ul>
+7,1,2019 - December 6,"<h3 class=""news_title"">Celebrations marking the tenth anniversary of the Berlin Office of Studio legale Donà Viscardini</h3>",celebrations-marking-the-tenth-anniversary-of-the-berlin-office-of-studio-legale-dona-viscardini,0,,"<ul>
 <li>The celebrations for the tenth anniversary of our German headquarters will take place at our Offices in Berlin (Sybelstrasse 39), with the participation of all the partners of the Firm  (
                     <a href=""../images/Invito Berlino.png"" onclick=""window.open('../images/Invito Berlino.png',
                                        'newwindow', 'width=980, height=800');
@@ -80,7 +80,7 @@ id,title,articles
                 </li>
 <li>The event will also be an opportunity for an interesting artistic <i>vernissage</i></li>
 </ul>"
-8,"<h3 class=""news_title"">Assemblea Generale dell'""Unione degli Avvocati Europei"" (U.A.E.) a Lussemburgo</h3>","<ul>
+8,1,2019 - November 22-23,"<h3 class=""news_title"">Assemblea Generale dell'""Unione degli Avvocati Europei"" (U.A.E.) a Lussemburgo</h3>",assemblea-generale-dellunione-degli-avvocati-europei-uae-a-lussemburgo,0,,"<ul>
 <li>The General Assembly of the U.A.E. will take place in Luxembourg, beginning on Friday, November 22 with a Conference on “Buying and managing a real property in Europe” (program 
                     <a href=""../images/UAE-PROGRAMME-en.pdf"" onclick=""window.open('../images/UAE-PROGRAMME-en.pdf',
                                        'newwindow', 'width=980, height=800');
@@ -101,7 +101,7 @@ id,title,articles
 
                 </li>
 </ul>"
-9,"<h3 class=""news_title"">Incontro inaugurale a Milano del ""Corso di perfezionamento e specializzazione in diritto dell’Unione europea""</h3>","<ul>
+9,1,2019 - October 30,"<h3 class=""news_title"">Incontro inaugurale a Milano del ""Corso di perfezionamento e specializzazione in diritto dell’Unione europea""</h3>",incontro-inaugurale-a-milano-del-corso-di-perfezionamento-e-specializzazione-in-diritto-dellunione-europea,0,,"<ul>
 <li>Presso l’Aula Magna del Palazzo di giustizia di Milano, ha avuto inizio la prima edizione del ""Corso di perfezionamento e specializzazione in diritto dell’Unione europea”, organizzato dall’Università degli Studi di Milano, in collaborazione con l’""Unione degli Avvocati Europei"" (U.A.E.)
                     <a href=""../images/locandina-incontro-30 ottobre-2019.pdf"" onclick=""window.open('../images/locandina-incontro-30 ottobre-2019.pdf',
                                        'newwindow', 'width=980, height=800');
@@ -118,7 +118,7 @@ id,title,articles
 
                 </li>
 </ul>"
-10,"<h3 class=""news_title"">XXXIII Annual Congress of the ""Union of European Lawyers"" (U.A.E.) in Napoli</h3>","<ul>
+10,1,2019 - June 28-29,"<h3 class=""news_title"">XXXIII Annual Congress of the ""Union of European Lawyers"" (U.A.E.) in Napoli</h3>",xxxiii-annual-congress-of-the-union-of-european-lawyers-uae-in-napoli,0,,"<ul>
 <li>The XXXIII Annual Congress of the ""Union of European Lawyers"" took place in Naples with the theme “Alternative Dispute Resolution (ADR) in the European legal context: development prospects and sectoral applications” (program 
                     <a href=""../images/Programma-congresso-annuale_2019.pdf"" onclick=""window.open('../images/Programma-congresso-annuale_2019.pdf',
                                        'newwindow', 'width=980, height=800');
@@ -143,7 +143,7 @@ id,title,articles
 
                 </li>
 </ul>"
-11,"<h3 class=""news_title"">Attorney Wilma Viscardini protagonist at the Max-Planck-Institut</h3>","<ul class=""news"">
+11,1,2019 - June 18-19,"<h3 class=""news_title"">Attorney Wilma Viscardini protagonist at the Max-Planck-Institut</h3>",attorney-wilma-viscardini-protagonist-at-the-max-planck-institut,0,,"<ul class=""news"">
 <li>The international conference “The Contribution of the Legal Services of the European Institutions to European Union Law"" took place in Frnakfurt hosted by the prestigious ""Max-Planck-Institut für europäische Rechtsgeschichte"", 
                     <a href=""../images/programme-max-planck.pdf"" onclick=""window.open('../images/programme-max-planck.pdf',
                                        'newwindow', 'width=980, height=800');
@@ -159,7 +159,7 @@ id,title,articles
                             return false;""> Press Release from the Max-Plank-Institut after the event</a>)
                 </li>
 </ul>"
-12,"<h3 class=""news_title"">Course of specialization in Fiscal Law in Treviso</h3>","<ul class=""news"">
+12,1,2019 - May 29,"<h3 class=""news_title"">Course of specialization in Fiscal Law in Treviso</h3>",course-of-specialization-in-fiscal-law-in-treviso,0,,"<ul class=""news"">
 <li>The second Course of specialization in European and international Fiscal Law, organized by the ""Ordine dei Dottori commercialisti e degli Esperti contabili di Treviso"" will take place in Treviso on May 29
                     <a href=""../images/locandina ODCEC..pdf"" onclick=""window.open('../images/locandina ODCEC.pdf',
                                        'newwindow', 'width=980, height=800');
@@ -170,7 +170,7 @@ id,title,articles
 <li>L’Avv. Gabriele Donà will speak on the theme “The principle of ne bis in idem”.
                 </li>
 </ul>"
-13,"<h3 class=""news_title"">“Scholarship” from the Union of European Lawyers (UAE) for young attorneys e licensed practitioners (deadline  April 30 2019)</h3>","<ul class=""news"">
+13,1,2019 - March 25,"<h3 class=""news_title"">“Scholarship” from the Union of European Lawyers (UAE) for young attorneys e licensed practitioners (deadline  April 30 2019)</h3>",scholarship-from-the-union-of-european-lawyers-uae-for-young-attorneys-e-licensed-practitioners-deadline-april-30-2019,0,,"<ul class=""news"">
 <li>The UAE (<a href=""http://www.uae.lu"" onclick=""window.open('http://www.uae.lu',
                                 'newwindow', 'width=980, height=800');
                         return false;"">www.uae.lu</a>) has launched an important initiative for young lawyers (U-35) of all Member States of the European Union: to apply, candidates must submit an essay on the topic of Alternative Dispute Resolution (ADR), in English or French, by the April 30 deadline.
@@ -182,7 +182,7 @@ id,title,articles
 <li>The winner (the decision will be made by a Jury on or before May 20) will be awarded a ""scholarship"" which includes (inter alia): free two-year membership in the UAE, free attendance (inclusive of travel and lodging expenses) to the next Annual Congress, which will be held in Naples on June 28-29 with main topic “Alternative Dispute Resolution”.
                 </li>
 </ul>"
-14,"<h3 class=""news_title"">Training Course on European Union Law in Milano</h3>","<ul class=""news"">
+14,1,2019 - March 18,"<h3 class=""news_title"">Training Course on European Union Law in Milano</h3>",training-course-on-european-union-law-in-milano,0,,"<ul class=""news"">
 <li>The third meeting of  Module n. 2 “Tutela giurisdizionale e profili sostanziali” of Training Course on European Union Law, organized (among others) by the ""Ordine degli Avvocati di Milano"" and by ""Fondazione Forense di Milano"" took place in Milano
                     <a href=""../images/locandina Coa Milano.pdf"" onclick=""window.open('../images/locandina Coa Milano.pdf',
                                        'newwindow', 'width=980, height=800');
@@ -193,7 +193,7 @@ id,title,articles
 <li>Attorney Gabriele Donà spoke on the topic “Il rinvio pregiudiziale. Presupposti teorici e analisi casi pratici”.
                 </li>
 </ul>"
-15,"<h3 class=""news_title"">L’AVV. GABRIELE DONÀ NOMINATO PRESIDENTE DELL'UNIONE DEGLI AVVOCATI EUROPEI</h3>","<ul class=""news"">
+15,1,2018 - December 1,"<h3 class=""news_title"">L’AVV. GABRIELE DONÀ NOMINATO PRESIDENTE DELL'UNIONE DEGLI AVVOCATI EUROPEI</h3>",lavv-gabriele-dona-nominato-presidente-dellunione-degli-avvocati-europei,0,,"<ul class=""news"">
 <li>In occasione del Comitato Esecutivo dell’Unione degli Avvocati Europei (UAE), tenutosi il 1 dicembre a Lisbona, è stato eletto il nuovo “Bureau” dell’Associazione.
                 </li>
 <li>L’Avv. Gabriele Donà è stato nominato Presidente dell’UAE (si vedano le notizie pubblicate sulla stampa  ==&gt;
@@ -215,7 +215,7 @@ id,title,articles
 </a>
 </li>
 </ul>"
-16,"<h3 class=""news_title"">Conferenza “La giustizia europea come fattore per una più efficace tutela giudiziaria in materia tributaria” a Padova</h3>","<ul class=""news"">
+16,1,2018 - 29 ottobre,"<h3 class=""news_title"">Conferenza “La giustizia europea come fattore per una più efficace tutela giudiziaria in materia tributaria” a Padova</h3>",conferenza-la-giustizia-europea-come-fattore-per-una-piu-efficace-tutela-giudiziaria-in-materia-tributaria-a-padova,0,,"<ul class=""news"">
 <li>Si svolgerà a Padova la Conferenza “La giustizia europea come fattore per una più efficace tutela giudiziaria in materia tributaria”, organizzata dalla “Camera Avvocati Tributaristi Veneto”
                     <a href=""../images/Locandina Camera 29 ottobre 2018.pdf"" onclick=""window.open('../images/Locandina Camera 29 ottobre 2018.pdf',
                                        'newwindow', 'width=980, height=800');
@@ -229,7 +229,7 @@ id,title,articles
 
                 </li>
 </li></ul>"
-17,"<h3 class=""news_title"">Conferenza “Le soupçon” a Marsiglia (FR) </h3>","<ul class=""news"">
+17,1,2018 - 19 ottobre,"<h3 class=""news_title"">Conferenza “Le soupçon” a Marsiglia (FR) </h3>",conferenza-le-soupcon-a-marsiglia-fr,0,,"<ul class=""news"">
 <li>Si svolgerà a Marsiglia la Conferenza internazionale “<i>Le soupçon</i>”, organizzata dall’Unione degli Avvocati europei (UAE)
                     <a href=""../images/Brochure Marseille.pdf"" onclick=""window.open('../images/Brochure Marseille.pdf',
                                        'newwindow', 'width=980, height=800');
@@ -241,7 +241,7 @@ id,title,articles
 
                 </li>
 </li></ul>"
-18,"<h3 class=""news_title"">CONFERENCE “ACCERTAMENTO TRIBUTARIO E PROFILI PENALISTICI” in MILAN</h3>","<ul class=""news"">
+18,1,2018 - September 12,"<h3 class=""news_title"">CONFERENCE “ACCERTAMENTO TRIBUTARIO E PROFILI PENALISTICI” in MILAN</h3>",conference-accertamento-tributario-e-profili-penalistici-in-milan,0,,"<ul class=""news"">
 <li>The conference “Accertamento tributario e profili penalistici” took place in Milan on September 12, 2018. The event was organized (among others) by the ”Ordine degli Avvocati di Milano”.
                     <a href=""../images/LOCANDINA EVENTO ACCERTAMENTO TRIBUTARIO PROFILI PENALISTICI  12 SETTEMBRE 2018.pdf"" onclick=""window.open('../images/LOCANDINA EVENTO ACCERTAMENTO TRIBUTARIO PROFILI PENALISTICI  12 SETTEMBRE 2018.pdf',
                                        'newwindow', 'width=980, height=800');
@@ -252,7 +252,7 @@ id,title,articles
 <li>Attorney Gabriele Donà spoke on the theme ""The principle of ne bis in idem in the European jurisprudence. Implications for fiscal assessments”.
                 </li>
 </ul>"
-19,"<h3 class=""news_title"">“Scholarship” from the Union of European Lawyers for young lawyers  (deadline May 15, 2018)</h3>","<ul class=""news"">
+19,1,2018 - March 27,"<h3 class=""news_title"">“Scholarship” from the Union of European Lawyers for young lawyers  (deadline May 15, 2018)</h3>",scholarship-from-the-union-of-european-lawyers-for-young-lawyers-deadline-may-15-2018,0,,"<ul class=""news"">
 <li>The UAE (<a href=""http://www.uae.lu"" onclick=""window.open('http://www.uae.lu',
                                 'newwindow', 'width=980, height=800');
                         return false;"">www.uae.lu</a>) has launched an important initiative for young lawyers (U-35) of all Member States of the European Union: to apply, candidates must submit an essay on the topic of Data Protection, in English or French, by the May 15 deadline.
@@ -264,7 +264,7 @@ id,title,articles
 <li>The winner (the decision will be made by a Jury on or before May 21) will be awarded a ""scholarship"" which includes (inter alia): free two-yea membership in the UAE, free attendance (inclusive of travel and lodging expenses) to the next Annual Congress, which will be held in The Hague on June 15 (in the prestigious seat of the International Court of Justice) with main topic “Data Protection”.
                 </li>
 </ul>"
-20,"<h3 class=""news_title"">XV STAGE ON EUROPEAN UNION LAW in ISCHIA</h3>","<ul class=""news"">
+20,1,2017 - June 17,"<h3 class=""news_title"">XV STAGE ON EUROPEAN UNION LAW in ISCHIA</h3>",xv-stage-on-european-union-law-in-ischia,0,,"<ul class=""news"">
 <li> The 15th Stage of European Union Law ""Andrea Cafiero"" will be held in Ischia, organized by the Council of the Bar Association of Naples. See the 
                     <a href=""../images/programma Ischia.pdf"" onclick=""window.open('../images/programma Ischia.pdf',
                                        'newwindow', 'width=980, height=800');
@@ -275,7 +275,7 @@ id,title,articles
 <li>Attorney Gabriele Donà will talk on the theme ""the implementation in Italy of Directive 2014/104/EU on actions for damages for infringements of competition law: framing and possible practical applications”.
                 </li>
 </ul>"
-21,"<h3 class=""news_title"">XV STAGE ON EUROPEAN UNION LAW in ISCHIA</h3>","<ul class=""news"">
+21,1,2017 - June 17,"<h3 class=""news_title"">XV STAGE ON EUROPEAN UNION LAW in ISCHIA</h3>",xv-stage-on-european-union-law-in-ischia,0,,"<ul class=""news"">
 <li> The 15th Stage of European Union Law ""Andrea Cafiero"" will be held in Ischia, organized by the Council of the Bar Association of Naples. See the 
                     <a href=""../images/programma Ischia.pdf"" onclick=""window.open('../images/programma Ischia.pdf',
                                        'newwindow', 'width=980, height=800');
@@ -286,7 +286,7 @@ id,title,articles
 <li>Attorney Gabriele Donà will talk on the theme ""the implementation in Italy of Directive 2014/104/EU on actions for damages for infringements of competition law: framing and possible practical applications”.
                 </li>
 </ul>"
-22,"<h3 class=""news_title"">Conference in Ferrara on preventive opposition in tax matters</h3>","<ul class=""news"">
+22,1,2017 - March 16,"<h3 class=""news_title"">Conference in Ferrara on preventive opposition in tax matters</h3>",conference-in-ferrara-on-preventive-opposition-in-tax-matters,0,,"<ul class=""news"">
 <li>In Ferrara, Attorney Gabriele Donà intervenes at the Conference <span class=""notranslate"">""Il contradditorio endo-procedimentale. </span> Current Issues and Perspectives"", organized by (among others), the <span class=""notranslate"">""Unione dei giovani dottori commercialisti ed esperti contabili </span>"" of Ferrara (program attached) 
 
                     <a href=""../images/programma Ferrara 16_3_2017.pdf"" onclick=""window.open('../images/programma Ferrara 16_3_2017.pdf',
@@ -295,7 +295,7 @@ id,title,articles
                         programma Ferrara 16_3_2017.pdf</a> - - - .
                 </li>
 </ul>"
-23,"<h3 class=""news_title"">Attorney Wilma Viscardini and Dr. Gaetano Donà awarded the “Premio Uniteis 2016""</h3>","<ul class=""news"">
+23,1,2016 - November 30,"<h3 class=""news_title"">Attorney Wilma Viscardini and Dr. Gaetano Donà awarded the “Premio Uniteis 2016""</h3>",attorney-wilma-viscardini-and-dr-gaetano-dona-awarded-the-premio-uniteis-2016,0,,"<ul class=""news"">
 <li>At the proceedings of the General Assembly of Uniteis e.V. - which took place at ""Longarone Fiere"" on November 30  2016
                     - Attorney Wilma Viscardini and Dr. Gaetano Donà were awarded the “Premio Uniteis 2016 ""<i>for the high degree of professionalism and deep friendship demonstrated in 40 years of collaboration</i>”.
                 </li>
@@ -307,7 +307,7 @@ id,title,articles
                     </a>
 </li>
 </ul>"
-24,"<h3 class=""news_title notranslate"">Attorney Gabriele Donà confirmed as Vice President of the European Lawyers Union</h3>","<ul class=""news"">
+24,1,2016 - November 21,"<h3 class=""news_title notranslate"">Attorney Gabriele Donà confirmed as Vice President of the European Lawyers Union</h3>",attorney-gabriele-dona-confirmed-as-vice-president-of-the-european-lawyers-union,0,,"<ul class=""news"">
 <li>At the meeting of the Executive Committee of the Union of European Lawyers (UAE),
                     held on November 21 2016 in Luxembourg, the new “Bureau” of the Union was elected.
                 </li>
@@ -321,7 +321,7 @@ id,title,articles
 </a>
 </li>
 </ul>"
-25,"<h3 class=""news_title"">Continuing Education Course on diritto penale in Milano</h3>","<ul class=""news"">
+25,1,2016 - November 18,"<h3 class=""news_title"">Continuing Education Course on diritto penale in Milano</h3>",continuing-education-course-on-diritto-penale-in-milano,0,,"<ul class=""news"">
 <li>In Milano, Lawyer Gabriele Donà will hold a lecture on “Giudice penale e rinvio pregiudiziale alla Corte di giustizia dell’Unione europea: aspetti procedurali e recente casistica giurisprudenziale”, as part of a Course organized by the LAF - Libera Associazione Forense (see the course poster)
 
                     <a href=""../images/Corso LAF Milano.pdf"" onclick=""window.open('../images/Corso LAF Milano.pdf',
@@ -330,7 +330,7 @@ id,title,articles
                         LAF Course in Milano.pdf</a> - - - 
                 </li>
 </ul>"
-26,"<h3 class=""news_title"">Convegno in materia di diritto sportivo in Sicilia</h3>","<ul class=""news"">
+26,1,2016 - September 23,"<h3 class=""news_title"">Convegno in materia di diritto sportivo in Sicilia</h3>",convegno-in-materia-di-diritto-sportivo-in-sicilia,0,,"<ul class=""news"">
 <li>A Convegno on the subject of “Discriminazioni nello sport e autonomia dei privati” was held in Fiumefreddo (Catania) on September 23. The Convegno was organized by th Commissione “Diritto dello sport”and by the Delegazione “Catania e Sicilia orientale” of the UAE (see the poster).
 
                     <a href=""../images/Convegno UAE Fiumefreddo.pdf"" onclick=""window.open('../images/Convegno UAE Fiumefreddo.pdf',
@@ -340,7 +340,7 @@ id,title,articles
                 </li>
 <li>Lawyer Gabriele Donà spoke on “I principi di non discriminazione e di libertà di circolazione degli sportivi professionisti nella giurisprudenza della Corte di giustizia dell'Unione europea”.</li>
 </ul>"
-27,"<h3 class=""news_title"">XXX General Congress of the UAE</h3>","<ul class=""news"">
+27,1,2016 - 24-26 June,"<h3 class=""news_title"">XXX General Congress of the UAE</h3>",xxx-general-congress-of-the-uae,0,,"<ul class=""news"">
 <li>The XXX General Congress of the ""Union of European Lawyers"" (UAE) will take place in Alba Iulia in Romania. See the attached flyers for the complete program.
                     <a href=""../images/Programme Congrès Alba Iulia - FR.pdf"" onclick=""window.open('../images/Programme_Congres_Alba_Iulia_2016_FR.pdf',
                                        'newwindow', 'width=980, height=800');
@@ -356,7 +356,7 @@ id,title,articles
 <li>Attorney Gabriele Donà, VicePresident of the UAE will speak on <span class=""notranslate"">""Ne bis in idem et les pouvoirs d’imposer des amendes des autorités européennes et nationales de concurrence"".</span>
 </li>
 </ul>"
-28,"<h3 class=""news_title"">Round Table in Torino on some aspects of investigative fiscal proceedings</h3>","<ul class=""news"">
+28,1,2016 - May 16,"<h3 class=""news_title"">Round Table in Torino on some aspects of investigative fiscal proceedings</h3>",round-table-in-torino-on-some-aspects-of-investigative-fiscal-proceedings,0,,"<ul class=""news"">
 <li>In Torino, Avv. Gabriele Donà speaksat the Round Table “Obbligatorietà contraddittorio endoprocedimentale. Legislazione - Corte di cassazione - Corte di giustizia”, organized by ""Centro di diritto penale tributario, comunitario e delle materie collegate"" of Torino 
                     <a href=""../images/PROGRAMMA TAVOLA ROTONDA  26 MAGGIO 2016.pdf"" onclick=""window.open('../images/PROGRAMMA TAVOLA ROTONDA  26 MAGGIO 2016.pdf',
                                        'newwindow', 'width=980, height=800');
@@ -365,7 +365,7 @@ id,title,articles
                     </a>.
                 </li>
 </ul>"
-29,"<h3 class=""news_title"">CONFERENCE ON CRIMINAL LAW TAX IN TORINO</h3>","<ul class=""news"">
+29,1,2015 - Nov 20,"<h3 class=""news_title"">CONFERENCE ON CRIMINAL LAW TAX IN TORINO</h3>",conference-on-criminal-law-tax-in-torino,0,,"<ul class=""news"">
 <li> In Torino, Avv. Gabriele Donà speaks at the Conference on ""The reform of tax offenses (Legislative Decree no. 158/2015)"", organized by the National Association of Italian Tax Attorneys"" and the ""Centre for criminal tax law, EU law and related disciplines"" of Torino
                     <a href=""../images/Convegno Torino.pdf"" onclick=""window.open('../images/Convegno Torino.pdf',
                                        'newwindow', 'width=980, height=800');
@@ -373,7 +373,7 @@ id,title,articles
                         (see the conference poster)</a>.
                 </li>
 </ul>"
-30,"<h3 class=""news_title"">CONFERENCE ON TAX LAW IN ROVIGO</h3>","<ul class=""news"">
+30,1,2015 - Nov 6,"<h3 class=""news_title"">CONFERENCE ON TAX LAW IN ROVIGO</h3>",conference-on-tax-law-in-rovigo,0,,"<ul class=""news"">
 <li>In Rovigo the seminar on ""Il ne bis in idem in ambito tributario"" hosted by the Department of Political Science, Law and International Studies of the University of Padova <a href=""../images/Rovigo_151106.pdf"" onclick=""window.open('../images/Rovigo_151106.pdf',
                                                                                                                                                                                                                   'newwindow', 'width=980, height=800');
                                                                                                                                                                                                           return false;"">
@@ -382,8 +382,8 @@ id,title,articles
 <li>Avv. Gabriele Donà speaks on the theme ""The case law of the Court of Justice of the European Union on the subject of  ""ne bis in idem""  between criminal and administrative sanctions.
                 </li>
 </ul>"
-31,"<h3 class=""news_title"">Convegno di diritto europeo e 
-                internazionale in materia di immigrazione a Bari</h3>","<ul class=""news"">
+31,1,2015 - Oct 5,"<h3 class=""news_title"">Convegno di diritto europeo e 
+                internazionale in materia di immigrazione a Bari</h3>",convegno-di-diritto-europeo-e-internazionale-in-materia-di-immigrazione-a-bari,0,,"<ul class=""news"">
 <li> Si svolgerà a Bari il Convegno “Madri migranti e minori: 
                     diritti e accoglienza - Nuove frontiere professionali per 
                     l’avvocato europeo"" promosso dalla Commissione “Famiglia”
@@ -400,8 +400,8 @@ id,title,articles
                     procedurali”
                 </li>
 </ul>"
-32,"<h3 class=""news_title"">Convegno tributario, fiscale, 
-                amministrativo a Cuneo</h3>","<ul class=""news"">
+32,1,2015 - Sep 18,"<h3 class=""news_title"">Convegno tributario, fiscale, 
+                amministrativo a Cuneo</h3>",convegno-tributario-fiscale-amministrativo-a-cuneo,0,,"<ul class=""news"">
 <li> Si svolgerà a CUNEO il convegno ""Novita' reati 
                     tributari - responsabilita' amministrativa abuso di 
                     diritto e frodi fiscali"" promosso dal Centro Incontri 
@@ -418,7 +418,7 @@ id,title,articles
                     ne bis in idem tra sanzioni penali e amministrative”
                 </li>
 </ul>"
-33,"<h3 class=""news_title LcustomTranslation"" id=""S61"">Congress of European Union Lawyers in Malaga</h3>","<ul class=""news"">
+33,1,2015 - Jun 18-20,"<h3 class=""news_title LcustomTranslation"" id=""S61"">Congress of European Union Lawyers in Malaga</h3>",congress-of-european-union-lawyers-in-malaga,0,,"<ul class=""news"">
 <li>In Malaga the annual congress of the Union of European 
                     Lawyers <span class=""notranslate"">(UAE)</span>. See below the program flyer.
                 </li>
@@ -450,7 +450,7 @@ id,title,articles
                     </a>
 </li>
 </ul>"
-34,"<h3 class=""news_title"">Conference May 29, 2015 in Creazzo (VI)</h3>","<ul class=""news"">
+34,1,2015 - May 29,"<h3 class=""news_title"">Conference May 29, 2015 in Creazzo (VI)</h3>",conference-may-29-2015-in-creazzo-vi,0,,"<ul class=""news"">
 <li class=""LcustomTranslation"" id=""131""> The center of criminal tax law hosts the conference 
                     ""TAX ASSESSMENT AND CRIME IN THE DAILY PRACTICE"".
                 </li>
@@ -470,7 +470,7 @@ id,title,articles
                     </a>
 </li>
 </ul>"
-35,"<h3 class=""news_title"">Attorney Gabriele Donà elected as Vice President of the European Lawyers Union</h3>","<ul class=""news"">
+35,1,2014 - November 29,"<h3 class=""news_title"">Attorney Gabriele Donà elected as Vice President of the European Lawyers Union</h3>",attorney-gabriele-dona-elected-as-vice-president-of-the-european-lawyers-union,0,,"<ul class=""news"">
 <li>At the meeting of the Executive Committee of the Union of European Lawyers (UAE), held on November 29, 2016 in Cracovia, the new “Bureau” of the Union was elected.
                 </li>
 <li> Within the ""Bureau"", attorney Gabriele Donà has been appointed as Vice President of the <span class=""notranslate"">UAE</span>
@@ -482,7 +482,7 @@ id,title,articles
 </a>
 </li>
 </ul>"
-36,"<h3 class=""news_title LcustomTranslation"" id=""S68"">Attorney Wilma Viscardini awarded with the Golden Toga</h3>","<ul class=""news"">
+36,1,2014 - September,"<h3 class=""news_title LcustomTranslation"" id=""S68"">Attorney Wilma Viscardini awarded with the Golden Toga</h3>",attorney-wilma-viscardini-awarded-with-the-golden-toga,0,,"<ul class=""news"">
 <li class=""LcustomTranslation"" id=""S69""> The Council of the Bar Association of Padua honors 
                     attorney Wilma Viscardini with the ""Golden Toga"" in 
                     recognition of her 50+ years of professional career.

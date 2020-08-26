@@ -48,6 +48,7 @@ Tools:
 - Jupyter Notebook
 
 Project Team Members:
-Anh Phan: [https://github.com/anhbiphan]
-Anh Dang: Github [https://github.com/anhtdang92]
+
+- Anh Phan: [https://github.com/anhbiphan]
+- Anh Dang: Github [https://github.com/anhtdang92]
 

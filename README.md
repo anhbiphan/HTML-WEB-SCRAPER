@@ -1,4 +1,4 @@
-# news_webscrapper
+# HTML-WEB-SCRAPER
 
 Project: News Webscrapper
 url = 'https://www.dovislex.eu/en/index.php?page=news'

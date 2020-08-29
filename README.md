@@ -31,11 +31,11 @@ Problems:
 2. converting 'title' column into a slug format. characters have latin symbols and characters.
     Solution: used slugify to convert "title" column and create a new column for "slug" format.
 
-**Title Column
+### Title Column
 
 ![alt text](https://github.com/anhbiphan/news_webscrapper/blob/master/images/title_h3.png?raw=true)
 
-**Slugged format of Title column
+### Slugged format of Title column
 
 ![alt text](https://github.com/anhbiphan/news_webscrapper/blob/master/images/title_slug.png?raw=true)
 

@@ -23,7 +23,7 @@ Requirements:
 Problems:
 1. after webscrapping the title, some "<h3 class=>" were inconsistent, missing [ ", > ] and other symbols/characters.
 
-- **Solution: used the .replace() to replace unique "<h3 class=>"
+- **Solution**: used the .replace() to replace unique "<h3 class=>"
     
 ![alt text](https://github.com/anhbiphan/news_webscrapper/blob/master/images/title.png?raw=true)
 - (As you can tell some <h3 formats are not consistent)
@@ -31,7 +31,7 @@ Problems:
   
 2. converting 'title' column into a slug format. characters have latin symbols and characters. 
 
-- **Solution: used slugify to convert "title" column and create a new column for "slug" format.(pip install unicode-slugify-latin)
+- **Solution**: used slugify to convert "title" column and create a new column for "slug" format.(pip install unicode-slugify-latin)
 
 
 

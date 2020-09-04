@@ -1,7 +1,7 @@
 # HTML-WEB-SCRAPER
 
 Project: News Webscrapper
-url = 'https://www.dovislex.eu/en/index.php?page=news'
+target_url:'https://www.dovislex.eu/en/index.php?page=news'
 
 Objective:
 1. Create a Webscrapper to grab data from url link of the news website
@@ -22,14 +22,18 @@ Requirements:
 
 Problems:
 1. after webscrapping the title, some "<h3 class=>" were inconsistent, missing [ ", > ] and other symbols/characters.
-    Solution: used the .replace() to replace unique "<h3 class=>"
+
+- **Solution: used the .replace() to replace unique "<h3 class=>"
     
 ![alt text](https://github.com/anhbiphan/news_webscrapper/blob/master/images/title.png?raw=true)
 - (As you can tell some <h3 formats are not consistent)
 
   
-2. converting 'title' column into a slug format. characters have latin symbols and characters.
-    Solution: used slugify to convert "title" column and create a new column for "slug" format.
+2. converting 'title' column into a slug format. characters have latin symbols and characters. 
+
+- **Solution: used slugify to convert "title" column and create a new column for "slug" format.(pip install unicode-slugify-latin)
+
+
 
 ### Title Column
 
@@ -45,7 +49,7 @@ Problems:
 Tools:
 - BeautifulSoup
 - Pandas
-- Slugify
+- Slugify(Unicode)
 - Request
 - Jupyter Notebook
 

@@ -44,6 +44,7 @@ Problems:
 ![alt text](https://github.com/anhbiphan/news_webscrapper/blob/master/images/title_slug.png?raw=true)
 
 
+**The .csv contains the final data frame edit**
 
 
 Tools:
